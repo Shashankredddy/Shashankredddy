@@ -9,6 +9,8 @@
 
 - 🔭 I’m currently working on **AI Agents**
 
+- 👨‍💻 All of my projects are available at [https://shashankredddy.github.io/shashankPasham.github.io/](https://shashankredddy.github.io/shashankPasham.github.io/)
+
 - 📫 How to reach me **reddypasham01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
