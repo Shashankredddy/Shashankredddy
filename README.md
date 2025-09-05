@@ -1,109 +1,58 @@
-👋 Hi, I'm Shashank Reddy Pasham
-<a href="https://www.google.com/search?q=https://linkedin.com/in/your-linkedin-profile">
-<img align="left" alt="Shashank's LinkedIn" width="22px" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/npm/simple-icons%40v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.google.com/search?q=https://twitter.com/your-twitter-handle">
-<img align="left" alt="Shashank's Twitter" width="22px" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/npm/simple-icons%40v3/icons/twitter.svg" />
-</a>
-<a href="mailto:reddypasham01@gmail.com">
-<img align="left" alt="Shashank's Email" width="22px" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/npm/simple-icons%40v3/icons/gmail.svg" />
-</a>
-<br />
-<br />
+<h1 align="center">Hi 👋, I'm Shashank Reddy</h1>
+<h3 align="center">A passionate software developer</h3>
 
-I'm a passionate and results-driven Software Engineer based in Atlanta, USA. With a Master's in Computer Science and over two years of experience, I specialize in Java backend development and building robust, scalable technical solutions. I have a strong interest in applying LLMs to create autonomous AI systems and process automation tools.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankredddy&label=Profile%20views&color=0e75b6&style=flat" alt="shashankredddy" /> </p>
 
-🚀 A Little More About Me...
-🔭 I’m currently working on building multi-agent workflows and autonomous process automation tools using LangChain.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashankredddy" alt="shashankredddy" /></a> </p>
 
-🌱 I’m currently diving deeper into agentic AI systems and novel applications of Large Language Models.
+<p align="left"> <a href="https://twitter.com/shashanktosunny" target="blank"><img src="https://img.shields.io/twitter/follow/shashanktosunny?logo=twitter&style=for-the-badge" alt="shashanktosunny" /></a> </p>
 
-👯 I’m looking to collaborate on open-source projects involving Java, Spring Boot, or Machine Learning.
+- 🔭 I’m currently working on **AI Agents**
 
-💬 Ask me about Java, Spring Boot, RESTful APIs, Python, and building with LLMs.
+- 📫 How to reach me **reddypasham01@gmail.com**
 
-📫 How to reach me: reddypasham01@gmail.com
-
-😄 Pronouns: [Your Pronouns]
-
-⚡ Fun fact: [A fun, interesting fact about you]
-
-💻 Tech Stack & Tools
-This is a list of the technologies and tools I'm most comfortable with.
-
-Category
-
-Technologies
-
-Frontend
-
-
-
-Backend
-
-
-
-Databases
-
-
-
-DevOps & Cloud
-
-
-
-📈 My GitHub Stats
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyour-github-username%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Shashank's GitHub Stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyour-github-username%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Languages" />
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/_nanashi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="_nanashi_" height="30" width="40" /></a>
+<a href="https://twitter.com/shashanktosunny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shashanktosunny" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shashank-reddy-pasham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shashank-reddy-pasham" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/reddy_roxxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="reddy_roxxx" height="30" width="40" /></a>
 </p>
 
-Note: Replace your-github-username with your actual GitHub username.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-✨ Featured Projects
-Here are some of the projects I'm most proud of.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashankredddy&show_icons=true&locale=en&layout=compact" alt="shashankredddy" /></p>
 
-Project
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashankredddy&show_icons=true&locale=en" alt="shashankredddy" /></p>
 
-Description
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashankredddy&" alt="shashankredddy" /></p>
+<h1 align="center">Hi 👋, I'm Shashank Reddy</h1>
+<h3 align="center">A passionate software developer</h3>
 
-Technologies
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankredddy&label=Profile%20views&color=0e75b6&style=flat" alt="shashankredddy" /> </p>
 
-Repository
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashankredddy" alt="shashankredddy" /></a> </p>
 
-Live Demo
+<p align="left"> <a href="https://twitter.com/shashanktosunny" target="blank"><img src="https://img.shields.io/twitter/follow/shashanktosunny?logo=twitter&style=for-the-badge" alt="shashanktosunny" /></a> </p>
 
-Task Tree Generation for Automated Cooking
+- 🔭 I’m currently working on **AI Agents**
 
-Designed structured robotic task trees using the Gemini LLM to translate complex cooking instructions into actionable nodes. Evaluated various prompting techniques (Zero-Shot, CoT) to achieve high accuracy for robotic task automation.
+- 📫 How to reach me **reddypasham01@gmail.com**
 
-Python, Jupyter, Gemini API, TensorFlow
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/_nanashi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="_nanashi_" height="30" width="40" /></a>
+<a href="https://twitter.com/shashanktosunny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shashanktosunny" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shashank-reddy-pasham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shashank-reddy-pasham" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/reddy_roxxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="reddy_roxxx" height="30" width="40" /></a>
+</p>
 
-Link to Repo
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-N/A
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashankredddy&show_icons=true&locale=en&layout=compact" alt="shashankredddy" /></p>
 
-Full Stack Recipe Application
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashankredddy&show_icons=true&locale=en" alt="shashankredddy" /></p>
 
-Developed a full-stack e-commerce-style video platform with user management, featuring a robust back-end architected on AWS EC2 instances and a responsive front-end built with Tailwind CSS.
-
-React.js, Node.js, PostgreSQL, AWS, Tailwind
-
-Link to Repo
-
-Link to Demo
-
-Enterprise SSO & Security
-
-Implemented a secure Single Sign-On (SSO) system using Auth0, integrating OAuth 2.0 and OIDC. Secured multiple production-grade REST APIs and microservices with Spring Security and JWT, reducing unauthorized access by 45%.
-
-Java, Spring Boot, Spring Security, JWT, OAuth 2.0
-
-Link to Repo
-
-N/A
-
-Thank you for visiting my profile!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashankredddy&" alt="shashankredddy" /></p>
