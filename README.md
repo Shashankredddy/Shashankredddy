@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **AI Agents**
 
-- 👨‍💻My portfolio [https://shashankredddy.github.io/shashankPasham.github.io/](https://shashankredddy.github.io/)
+- 👨‍💻My portfolio [https://shashankredddy.github.io/](https://shashankredddy.github.io/)
 
 - 📫 How to reach me **reddypasham01@gmail.com**
 
